@@ -6,4 +6,4 @@ https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/EYscK6eby
 
 #### ระบุ URL ของ Github Pages สำหรับเว็บไซต์นี้ด้านใต้หัวข้อนี้
 
-test push
+https://cpe-cmu-261207.github.io/quiz201-Dexshine/
