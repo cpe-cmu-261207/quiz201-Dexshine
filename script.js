@@ -5,6 +5,7 @@ const length = document.getElementById('length')
 const color = document.querySelector('#color')
 
 // define more constants and variables here
+const reset = document.querySelector('#reset')
 
 btn_toggle.onclick = () => {
   // your code here
@@ -18,3 +19,7 @@ btn_toggle.onclick = () => {
 }
 
 // more codes for Search and Reset buttons here
+reset.onclick = () => {
+  length.value = 5
+  color.value = '#FF0000'
+}
